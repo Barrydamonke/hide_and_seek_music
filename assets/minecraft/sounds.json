@@ -1,0 +1,42 @@
+{
+  "has.hide_phase": {
+    "sounds": [{"name": "has/hide_phase", "stream": true}]
+  },
+  "has.seek_phase_1": {
+    "sounds": [{"name": "has/seek_phase_1", "stream": true}]
+  },
+  "has.transition": {
+    "sounds": [{"name": "has/transition", "stream": false}]
+  },
+  "has.seek_phase_2": {
+    "sounds": [
+      {"name": "has/seek_phase_2_1", "stream": true},
+      {"name": "has/seek_phase_2_2", "stream": true}
+    ]
+  },
+  "has.seek_phase_3": {
+    "sounds": [
+      {"name": "has/seek_phase_3_1", "stream": true},
+      {"name": "has/seek_phase_3_2", "stream": true}
+  ]
+  },
+  "has.win": {
+    "sounds": [
+      {"name": "has/win_1", "stream": false},
+      {"name": "has/win_2", "stream": false},
+      {"name": "has/win_3", "stream": false},
+      {"name": "has/win_4", "stream": false},
+      {"name": "has/win_5", "stream": false},
+      {"name": "has/win_6", "stream": false},
+      {"name": "has/win_7", "stream": false}
+    ]
+  },
+  "has.loss": {
+    "sounds": [
+      {"name": "has/loss_1", "stream": false},
+      {"name": "has/loss_2", "stream": false},
+      {"name": "has/loss_3", "stream": false},
+      {"name": "has/loss_4", "stream": false}
+    ]
+  }
+}

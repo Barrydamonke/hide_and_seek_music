@@ -1,0 +1,15 @@
+Phase	Duration	Track Name	Notes
+Hide Phase	60s	has.hide_phase	Hiders hiding, seekers waiting
+Seek Phase 1	0-5 min	has.seek_phase_1	First 5 minutes of seeking
+Seek Phase 2	5-8 min	has.seek_phase_2	Middle 3 minutes, locator bar activates
+Seek Phase 3	8-10 min	has.seek_phase_3	Final 2 minutes, hiders glow
+Win	Outcome	has.win	Played to winning team
+Loss	Outcome	has.loss	Played to losing team
+
+
+has.hide_phase
+has.seek_phase_1
+has.seek_phase_2
+has.seek_phase_3
+has.win
+has.loss
